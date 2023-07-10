@@ -1,5 +1,4 @@
 function Image() {
-    return <div>Anna</div>
-
+    return <div>Anna Marova</div>
 }
-export default Image;
+export default Image
